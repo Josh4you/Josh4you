@@ -1,4 +1,8 @@
-### Hi there 👋
+#### Hi there 👋 
+<strong>I am Joshua Shibu </strong>
+reach me @ joshuashibu4@gmail.com
+
+<div align="center"><h2><em>Stay Awesome, Stay hungry</em></h2></div>
 
 <!--
 **Josh4you/Josh4you** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
